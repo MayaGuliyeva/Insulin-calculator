@@ -76,6 +76,11 @@ Open your browser at: **http://localhost:5000**
 | `target_bg` | Patient's target blood glucose |
 
 ---
+## Model Training
+
+The models were trained using scikit-learn ensemble algorithms including Random Forest and Gradient Boosting. The goal is to predict insulin dosage and blood glucose levels for diabetes management.
+
+---
 
 ## 📈 Model Performance (on test set)
 
