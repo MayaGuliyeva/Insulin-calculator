@@ -28,6 +28,8 @@ from sklearn.pipeline import Pipeline
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'data'))
 from generate_data import generate_dataset
 
+# Train Random Forest model for insulin dose prediction
+
 
 # ════════════════════════════════════════════════
 #  0. Load or Generate Data
